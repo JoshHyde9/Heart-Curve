@@ -13,7 +13,7 @@ function draw() {
   background(0);
   translate(width / 2, height / 2);
 
-  noFill();
+  fill(110, 55, 100);
   stroke(255);
   strokeWeight(2);
 
